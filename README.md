@@ -171,4 +171,4 @@ You can find on this repository many example on how to interract with any avail 
 - In the examples folders you will find examples for:
   - Deno examples
   - Go examples
-  - Validitum example implementation 
+  - Validium example implementation 
